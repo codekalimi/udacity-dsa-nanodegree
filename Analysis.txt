@@ -1,0 +1,19 @@
+# Task0.py
+  The time complexity of this function is O(1) because the function only prints the first and last record of the texts and calls list.
+  The time complexity is constant.
+
+# Task1.py
+    The time complexity of this function is O(n) where n is the number of records in the telephone_numbers list.
+
+# Task2.py
+    The time complexity of this function is O(n) where n is the number of calls in the calls list.
+
+# Task3.py
+    The time complexity of this function is O(n) where n is the number of calls in the calls list.
+    The function iterates through the calls list to determine the area codes and mobile prefixes called by people in Bangalore.
+    The function also determines the percentage of calls from fixed lines in Bangalore that are made to fixed lines also in Bangalore.
+    The time complexity is linear.
+
+# Task4.py
+    The time complexity of this function is O(n) where n is the number of calls and texts in the calls and texts list.
+    The function iterates through the calls list twice and the texts list once.
